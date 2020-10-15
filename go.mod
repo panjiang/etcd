@@ -12,8 +12,8 @@ require (
 	github.com/dustin/go-humanize v0.0.0-20171111073723-bb3d318650d4
 	github.com/fatih/color v1.7.0 // indirect
 	github.com/gogo/protobuf v1.2.1
-	github.com/golang/groupcache v0.0.0-20160516000752-02826c3e7903
-	github.com/golang/protobuf v1.3.2
+	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e
+	github.com/golang/protobuf v1.4.2
 	github.com/google/btree v1.0.0
 	github.com/google/uuid v1.0.0
 	github.com/gorilla/websocket v0.0.0-20170926233335-4201258b820c // indirect
@@ -40,12 +40,12 @@ require (
 	go.etcd.io/bbolt v1.3.5
 	go.etcd.io/etcd/api/v3 v3.0.0-00010101000000-000000000000
 	go.uber.org/zap v1.15.0
-	golang.org/x/crypto v0.0.0-20191002192127-34f69633bfdc
-	golang.org/x/net v0.0.0-20190813141303-74dc4d7220e7
+	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
+	golang.org/x/net v0.0.0-20200707034311-ab3426394381
 	golang.org/x/sys v0.0.0-20200918174421-af09f7315aff
-	golang.org/x/text v0.3.3 // indirect
-	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2
-	google.golang.org/grpc v1.26.0
+	golang.org/x/time v0.0.0-20191024005414-555d28b269f0
+	google.golang.org/grpc v1.32.0
+	google.golang.org/grpc/examples v0.0.0-20201013205100-7745e521ff61 // indirect
 	gopkg.in/cheggaaa/pb.v1 v1.0.25
 	sigs.k8s.io/yaml v1.1.0
 )
